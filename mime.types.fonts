@@ -1,0 +1,4 @@
+types {
+  application/x-font-ttf           ttc ttf;
+  font/opentype                    otf;
+}
